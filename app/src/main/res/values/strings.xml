@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Form_input</string>
+    <string name="name">Name</string>
+    <string name="warn_message">Not enough information</string>
+    <string name="confirm_message">OK! Everything is fine</string>
+</resources>
